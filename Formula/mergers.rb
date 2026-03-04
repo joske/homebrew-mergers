@@ -1,10 +1,10 @@
 class Mergers < Formula
   desc "Visual diff and merge tool written in Rust with GTK4"
   homepage "https://github.com/joske/mergers"
-  version "0.5.2"
+  version "0.5.3"
   license "GPL-2.0-only"
-  url "https://github.com/joske/mergers/releases/download/v0.5.2/mergers-darwin-aarch64.tar.gz"
-  sha256 "7071a57c0d9dada59a646a42dea89043f93a44f08b0c711d229f72fa28785a54"
+  url "https://github.com/joske/mergers/releases/download/v0.5.3/mergers-darwin-aarch64.tar.gz"
+  sha256 "9960fbbab5554bc3e109f8587bcb2e505e9fd101410d2f9bba8ed07a4ebb1de2"
 
   depends_on :macos
   depends_on "adwaita-icon-theme"
